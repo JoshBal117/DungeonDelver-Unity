@@ -1,0 +1,36 @@
+# Unity generated folders (never commit these)
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# Unity cache
+Library/Bee/
+Library/PackageCache/
+Library/ScriptAssemblies/
+
+# IDE stuff
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.tmp
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Crash logs
+sysinfo.txt
